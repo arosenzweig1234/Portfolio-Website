@@ -353,7 +353,7 @@ h2 {
   font-family: var(--font-display);
   font-size: 3.5rem;
   font-weight: 300;
-  color: var(--light-blue);
+  color: #2e4f73;
   line-height: 1;
   padding-top: 0.3rem;
 }
